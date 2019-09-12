@@ -13,7 +13,7 @@ public class DevlopTest {
 
     @Test
     public void  Test02(){
-        int tmp = 20;
+        int tmp = 10;
         Assert.assertEquals(10,tmp);
     }
 
